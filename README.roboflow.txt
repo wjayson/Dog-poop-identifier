@@ -1,7 +1,7 @@
 
 Dog Poop - v11 2024-09-26 12:40pm
 ==============================
-
+448x448
 This dataset was exported via roboflow.com on November 15, 2024 at 6:58 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you

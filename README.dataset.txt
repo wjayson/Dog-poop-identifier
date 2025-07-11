@@ -4,3 +4,4 @@ https://universe.roboflow.com/dog-poop/dog-poop-qdsbu
 Provided by a Roboflow user
 License: Public Domain
 
+448x448
